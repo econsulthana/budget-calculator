@@ -1,5 +1,6 @@
 financial planning recommendation website🌊
-- financial planning recommendation website to the most reviewed tool, using HTML, CSS & Figma.
+- financial planning recommendation website to the most reviewed tool, using HTML, CSS.
+- learned and designed figma.
 - Contains  with scrolling.
 - Includes a dark  mode.
 - Developed first with the WEB methodology, for desktop
